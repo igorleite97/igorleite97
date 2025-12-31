@@ -8,7 +8,7 @@ Experiência prática em Python e JavaScript, desenvolvimento de APIs REST, aná
 
 Código com foco em governança, integridade de dados e responsabilidade técnica.
 
-Meu perfil"[Linkedin](www.linkedin.com/in/igor-leite-a9b839222)"
+Meu perfil: [Linkedin](www.linkedin.com/in/igor-leite-a9b839222)
 
 
    <p align="left">
