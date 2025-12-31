@@ -1,6 +1,6 @@
 # Igor Leite
 
-**'Developer | Ethical Hacker | Data Analyst'**
+**Developer | Ethical Hacker | Data Analyst**
 
 Desenvolvedor focado em APIs, automação e segurança, atuando na construção do SGL (Sistema de Gestão de Licitações) — uma plataforma orientada a domínio, auditoria e rastreabilidade completa do processo licitatório.
 
