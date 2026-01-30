@@ -37,7 +37,7 @@ align="left"
     title="HTML" 
     width="34px" 
     style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
 
 
 <img 
