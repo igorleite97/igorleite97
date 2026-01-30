@@ -1,15 +1,11 @@
 # Igor Leite
+*Backend Developer | Ethical Hacker | Security-Driven Engineer*
 
-**Developer | Ethical Hacker | Data Analyst**
+Desenvolvedor com foco em arquitetura de APIs, automação e segurança, atuando na construção do SGL Enterprise — uma plataforma corporativa de gestão de licitações públicas, orientada a domínio (DDD), com governança, rastreabilidade auditável e decisões técnicas justificáveis.
 
-Desenvolvedor focado em APIs, automação e segurança, atuando na construção do SGL (Sistema de Gestão de Licitações) — uma plataforma orientada a domínio, auditoria e rastreabilidade completa do processo licitatório.
+Experiência prática em Python e TypeScript, com forte atuação em FastAPI, modelagem de domínios complexos, regras de negócio explícitas, controle de estados e auditoria por eventos. Desenvolvimento guiado por integridade de dados, responsabilidade técnica e clareza decisória.
 
-Experiência prática em Python e JavaScript, desenvolvimento de APIs REST, análise de dados aplicada e segurança de aplicações web. Atuação com Ethical Hacking (Kali Linux), scripts para testes de intrusão e validação de compliance.
-
-Código com foco em governança, integridade de dados e responsabilidade técnica.
-
-Meu perfil: [Linkedin] (www.linkedin.com/in/igor-leite-a9b839222)
-
+Atuação em Ethical Hacking e Application Security, utilizando Kali Linux e scripts próprios em Python para pentest profissional, com foco em reconhecimento, enumeração, validação de falhas lógicas e testes de segurança em APIs e aplicações web.
 
    <p align="left">
       <a href="https://github.com/IgorLeite?tab=followers">
