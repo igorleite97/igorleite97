@@ -1,7 +1,7 @@
 # Igor Leite
 **Backend Developer | Ethical Hacker | Security-Driven Engineer**
 
-## 🎯 Sobre Mim
+##  Sobre Mim
 
 Desenvolvedor Backend especializado em **arquitetura de APIs seguras**, **automação** e **segurança ofensiva (Pentest)**.
 
@@ -10,7 +10,7 @@ Atualmente construindo o **SGL Enterprise** — uma plataforma corporativa de ge
 - 🔐 Governança e auditoria imutável (Event Sourcing)
 - ⚡ FastAPI + Python 3.12+
 
-## 🛠️ Stack Principal
+##  Stack Principal
 
 **Backend & Segurança:**
 - Python (FastAPI, pytest, asyncio)
