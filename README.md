@@ -1,55 +1,41 @@
 # Igor Leite
-*Backend Developer | Ethical Hacker | Security-Driven Engineer*
+**Backend Developer | Ethical Hacker | Security-Driven Engineer**
 
-Desenvolvedor com foco em arquitetura de APIs, automação e segurança, atuando na construção do SGL Enterprise — uma plataforma corporativa de gestão de licitações públicas, orientada a domínio (DDD), com governança, rastreabilidade auditável e decisões técnicas justificáveis.
+## 🎯 Sobre Mim
 
-Experiência prática em Python e TypeScript, com forte atuação em FastAPI, modelagem de domínios complexos, regras de negócio explícitas, controle de estados e auditoria por eventos. Desenvolvimento guiado por integridade de dados, responsabilidade técnica e clareza decisória.
+Desenvolvedor Backend especializado em **arquitetura de APIs seguras**, **automação** e **segurança ofensiva (Pentest)**.
 
-Atuação em Ethical Hacking e Application Security, utilizando Kali Linux e scripts próprios em Python para pentest profissional, com foco em reconhecimento, enumeração, validação de falhas lógicas e testes de segurança em APIs e aplicações web.
+Atualmente construindo o **SGL Enterprise** — uma plataforma corporativa de gestão de licitações públicas com:
+- 🏗️ Domain-Driven Design (DDD)
+- 🔐 Governança e auditoria imutável (Event Sourcing)
+- ⚡ FastAPI + Python 3.12+
 
-   <p align="left">
-      <a href="https://github.com/IgorLeite?tab=followers">
-         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Igorleite?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Igorleite?tab=repositories&sort=stargazers">
-         <img 
-         alt="Total de estrelhas" 
-         title="Total de estrelhas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Igorleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-   </p>
+## 🛠️ Stack Principal
+
+**Backend & Segurança:**
+- Python (FastAPI, pytest, asyncio)
+- TypeScript (React, Node.js)
+- APIs REST, JWT, RBAC
+- Docker, Clean Architecture
+
+**Offensive Security:**
+- Kali Linux, Nmap, Metasploit, Burp Suite
+- Scripts de automação para pentest
+- OWASP Top 10, análise de vulnerabilidades
+
+## 🎓 Formação & Certificações
+
+- 🎓 CST em Segurança da Informação (UNIP - em andamento)
+- 📜 eJPT (INE) - em preparação
+- 📜 Fortinet FCF Cybersecurity - em andamento
+
+## 🔗 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor_leite_123@hotmail.com)
 
 ---
-### 🤖 Linguagens e Tecnologias
-    
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="34px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="34px" 
-    style="padding-right: 10px;"
-src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor)" />
 
-
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="34px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-          
-          
-
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="34px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" />
+⭐ **Atualmente:** Analista de Tecnologia @ Croma Tecnologia  
+📍 **Localização:** Brasília, DF  
+💼 **Interesses:** DevSecOps, Red Team, Backend Architecture
