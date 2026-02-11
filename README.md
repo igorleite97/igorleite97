@@ -1,6 +1,6 @@
 # Igor Leite
 ---
-## 👋 Who Am I?
+##  Who Am I?
 
 I'm **Igor Leite** — a Backend Developer transitioning into Offensive Security (Pentest / Red Team).
 
@@ -10,7 +10,7 @@ Currently building **[SGL Enterprise](https://github.com/igorleite97/sgl_enterpr
 
 ---
 
-## 🎓 Certifications & Education
+##  Certifications & Education
 
 🎓 **CST in Information Security** — UNIP (2025-2027)  
 📜 **eJPT** (INE) — In preparation  
@@ -38,16 +38,16 @@ OWASP Top 10, vulnerability analysis
 
 ---
 
-## 🏆 Profiles & Achievements
+##  Profiles & Achievements
 
-### 🎮 Training Platforms
+### Training Platforms
 
 → **TryHackMe** - https://tryhackme.com/p/igor.sec.dev  
 → **HackTheBox** - https://profile.hackthebox.com/profile/019c4c95-6170-73b2-b61c-c5741403d621  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorleite97&show_icons=true&theme=dark&hide_border=true)
 
@@ -55,7 +55,7 @@ OWASP Top 10, vulnerability analysis
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - 🔐 Preparing for eJPT certification
 - 🏗️ Building enterprise-grade secure systems
@@ -64,7 +64,7 @@ OWASP Top 10, vulnerability analysis
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor_leite_123@hotmail.com)
