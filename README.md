@@ -1,8 +1,5 @@
 # Igor Leite
-**Backend Developer | Ethical Hacker | Security-Driven Engineer**
-
 ---
-
 ## 👋 Who Am I?
 
 I'm **Igor Leite** — a Backend Developer transitioning into Offensive Security (Pentest / Red Team).
