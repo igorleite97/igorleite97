@@ -42,7 +42,7 @@ OWASP Top 10, vulnerability analysis
 
 ### 🎮 Training Platforms
 
-→ **TryHackMe** - [Profile](#) *(adicione quando criar)*  
+→ **TryHackMe** - https://tryhackme.com/p/igor.sec.dev  
 → **HackTheBox** - [Profile](#) *(adicione quando criar)*  
 → **PortSwigger Academy** - [Profile](#) *(opcional)*
 
