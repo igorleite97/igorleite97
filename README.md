@@ -21,7 +21,7 @@
 
 ---
 
-## 📡 SIGINT INTERCEPT // CLEARANCE LEVEL: PUBLIC
+## SIGINT INTERCEPT // CLEARANCE LEVEL: PUBLIC
 
 ```python
 # Entity Classification: UMBRANULL
@@ -35,7 +35,7 @@
 
 A **systems architect** by day, **shadow operator** by night. I don't just write code — I **dissect it, weaponize it, and rebuild it bulletproof**.
 
-My background in **public procurement** (licitações) gave me something most pentesters lack: **understanding of business logic exploits**, compliance loopholes, and how billion-dollar systems **actually** break.
+My background in **public procurement** (licitações) gave me something most pentesters lack: **understanding of business logic exploits**, compliance loopholes, and how systems **actually** break.
 
 Currently engineering **[SGL Enterprise](https://github.com/igorleite97/sgl_enterprise)** — a procurement ERP fortified with DDD, Event Sourcing, and zero-trust architecture.
 
@@ -50,7 +50,7 @@ Currently engineering **[SGL Enterprise](https://github.com/igorleite97/sgl_ente
 
 ---
 
-## 🔐 DECRYPTION KEY // MESSAGE AUTHENTICATION
+## DECRYPTION KEY // MESSAGE AUTHENTICATION
 
 ```
 4e6f7450657479612e5761726e696e673a4578706c6f6974496e50726f6772657373
@@ -68,7 +68,7 @@ NotPetya.Warning:ExploitInProgress
 
 ---
 
-## 🏆 OPERATIONAL METRICS // TRYHACKME RECON
+## OPERATIONAL METRICS // TRYHACKME RECON
 
 <div align="center">
 
@@ -93,7 +93,7 @@ NotPetya.Warning:ExploitInProgress
 
 ---
 
-## 🎓 CREDENTIALS // AUTHENTICATION TOKENS
+## CREDENTIALS // AUTHENTICATION TOKENS
 
 ```yaml
 Education:
@@ -129,7 +129,7 @@ The best way to predict the future is to exploit it.
 
 ---
 
-## 🛠️ ARSENAL // EXPLOITATION FRAMEWORK
+## ARSENAL // EXPLOITATION FRAMEWORK
 
 ### Offensive Security Toolkit
 
@@ -177,9 +177,9 @@ DevOps:       Docker, CI/CD, Zero-trust
 
 ---
 
-## 📂 CLASSIFIED PROJECTS // ACCESS GRANTED
+## CLASSIFIED PROJECTS // ACCESS GRANTED
 
-### 🔐 Project Codename: "PROCUREMENT_SHIELD"
+### Project Codename: "PROCUREMENT_SHIELD"
 
 **Repository:** [SGL Enterprise](https://github.com/igorleite97/sgl_enterprise)
 
@@ -205,7 +205,7 @@ Public procurement = **billions in taxpayer money**. Systems this critical **can
 
 ---
 
-### 🎯 Project Codename: "BREACH_DOCUMENTATION"
+### Project Codename: "BREACH_DOCUMENTATION"
 
 **Repository:** [Offensive Write-ups](https://github.com/igorleite97/offensive-writeups)
 
@@ -227,7 +227,7 @@ Professional-grade penetration testing reports from:
 
 ---
 
-## 🧬 PATTERN RECOGNITION // CICADA PROTOCOL
+## PATTERN RECOGNITION // CICADA PROTOCOL
 
 ```
 4c 6f 6f 6b 20 64 65 65 70 65 72 2e 20 54 68 65 20 
@@ -249,7 +249,7 @@ Those who understand systems **own** them. Those who don't are **owned** by them
 
 ---
 
-## 📊 SURVEILLANCE DATA // GITHUB METRICS
+## SURVEILLANCE DATA // GITHUB METRICS
 
 <div align="center">
 
@@ -263,7 +263,7 @@ Those who understand systems **own** them. Those who don't are **owned** by them
 
 ---
 
-## 🎯 ACTIVE OPERATIONS // Q1 2026 OBJECTIVES
+## ACTIVE OPERATIONS // Q1 2026 OBJECTIVES
 
 ```python
 class MissionBriefing:
@@ -302,7 +302,7 @@ Phase 3: Advanced
 
 ---
 
-## 🌐 COMMUNICATION CHANNELS // SECURE LINKS
+## COMMUNICATION CHANNELS // SECURE LINKS
 
 <div align="center">
 
@@ -353,7 +353,7 @@ _philosophy:
 
 ---
 
-## 🕵️ FINAL TRANSMISSION // CICADA SEQUENCE
+## FINAL TRANSMISSION // CICADA SEQUENCE
 
 ```
 01010111 01100101 00100000 01100001 01110010 
