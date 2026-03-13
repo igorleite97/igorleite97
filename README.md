@@ -98,7 +98,6 @@ NotPetya.Warning:ExploitInProgress
 ```yaml
 Education:
   - CST Information Security (UNIP, 2025-2027)
-  - Ethical Hacking & Defense (Udemy, 2021)
 
 Certifications_In_Progress:
   - PenTest+ (CompTIA) → Target: 2026
