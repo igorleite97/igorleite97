@@ -200,7 +200,7 @@ Secure enterprise procurement system handling **government contracts** (high-val
 - Comprehensive test coverage (pytest)
 
 **Why it matters:**  
-Public procurement = **billions in taxpayer money**. Systems this critical **cannot** be insecure.
+Public procurement = **in taxpayer money**. Systems this critical **cannot** be insecure.
 
 ---
 
