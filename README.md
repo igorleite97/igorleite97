@@ -312,22 +312,6 @@ ProtonMail: [Operational security maintained]
 
 ---
 
-## 💭 OPERATIONAL PHILOSOPHY // CORE PRINCIPLES
-
-```assembly
-; Assembly of thought - compiled into action
-.section .text
-.global _philosophy
-
-_philosophy:
-    push    "Offense informs defense"
-    push    "Break systems to build unbreakable ones"
-    push    "Business logic > Technical exploits"
-    push    "Documentation is force multiplication"
-    call    execute_mission
-    ret
-```
-
 ### The UmbraNull Doctrine
 
 1. **Learn from history's greatest breaches**  
@@ -338,9 +322,6 @@ _philosophy:
 
 3. **Code is law, bugs are exploits**  
    Every line of code is a potential vulnerability. Every system has a backdoor — intentional or not.
-
-4. **Anonymity is power**  
-   UmbraNull = Shadow + Void. I exist in the null space between detection and compromise.
 
 ---
 
