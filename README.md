@@ -213,15 +213,6 @@ Professional-grade penetration testing reports from:
 - HackTheBox machines
 - Personal security research
 
-**Documented Exploits:**
-```
-✅ Basic Pentesting  → SMB anonymous, SSH bruteforce, lateral movement
-✅ Kenobi           → ProFTPD mod_copy, NFS misconfiguration, SUID exploitation
-🔄 Brooklyn Nine Nine → [REDACTED - In Progress]
-📋 Lazyadmin        → [QUEUED]
-📋 Attacktive Directory → [QUEUED]
-```
-
 **Methodology:** PTES framework, OWASP guidelines, professional reporting standards.
 
 ---
