@@ -288,11 +288,12 @@ class MissionBriefing:
 Phase 1: Foundation
 ├─ ✅ Basic Pentesting
 ├─ ✅ Kenobi
-└─ 🔄 Brooklyn Nine Nine
+└─ ✅ Brooklyn Nine Nine
 
 Phase 2: Intermediate
 ├─ 📋 Lazyadmin
-├─ 📋 Startup  
+├─ 📋 Mr.Robot
+├─ 📋 Startup
 └─ 📋 Attacktive Directory
 
 Phase 3: Advanced
@@ -416,32 +417,8 @@ The game is on. Find me if you can.
 
 ⭐ **If you decoded this, you're worth recruiting. Star the repo to signal.**
 
-**Last Transmission:** March 2026  
-**Operator Status:** `[ACTIVE]`  
-**Next Infiltration:** `[CLASSIFIED]`
-
 </div>
 
----
-
-## 🔍 EASTER EGGS HIDDEN IN THIS README
-
-Can you find all **7 encrypted messages**?
-
-1. Hex string in banner
-2. ROT13 in SIGINT
-3. Hex in Decryption Key
-4. Base64 after credentials
-5. Filename pattern (WannaCry)
-6. Hex in Cicada Protocol
-7. Binary in Final Transmission
-8. **BONUS:** Base64 farewell
-
-**Hint:** `echo "[encrypted_string]" | base64 -d`
-
-**Prize for decoding all:** Nothing. But you proved you belong here.
-
----
 
 ```
      _____           _                
