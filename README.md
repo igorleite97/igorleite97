@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ██╗   ██╗███╗   ███╗██████╗ ██████╗  █████╗     ███╗   ██╗██╗   ██╗██╗     ██╗     
 ██║   ██║████╗ ████║██╔══██╗██╔══██╗██╔══██╗    ████╗  ██║██║   ██║██║     ██║     
@@ -5,401 +7,169 @@
 ██║   ██║██║╚██╔╝██║██╔══██╗██╔══██╗██╔══██║    ██║╚██╗██║██║   ██║██║     ██║     
 ╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║    ██║ ╚████║╚██████╔╝███████╗███████╗
  ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-            [ OFFENSIVE SECURITY OPERATOR  |  SYSTEM ARCHITECT ]
-       "4e6f7450657479612e5761726e696e673a4578706c6f6974496e50726f6772657373"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<div align="center">
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-UmbraNull-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/UmbraNull)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-UmbraNull-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c4c95-6170-73b2-b61c-c5741403d621)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Leite-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
 
-### `>>> import reality; reality.exploit()`
-
-*In systems we trust. In vulnerabilities we thrive.*
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Offensive_Security-red?style=flat-square)
+![Target](https://img.shields.io/badge/Target-eJPT_2026-blue?style=flat-square)
 
 </div>
 
 ---
 
-## SIGINT INTERCEPT // CLEARANCE LEVEL: PUBLIC
+## About
+
+Backend developer transitioning into offensive security and Red Team operations. My background in public procurement systems gave me an unusual angle on business logic vulnerabilities — how complex workflows create attack surfaces that purely technical assessments miss.
+
+Currently focused on practical exploitation in controlled environments, Python automation for offensive tasks, and building a portfolio that demonstrates methodology over tooling.
 
 ```python
-# Entity Classification: UMBRANULL
-# Threat Level: [REDACTED]
-# Operational Status: ACTIVE
-# Last Known Activity: 14 days continuous engagement
-# Primary Objective: Vg6JtB9mK2xQ (ROT13: Flfgrz Pbzcebzvfr)
-```
-
-**Who am I?**
-
-A **systems architect** by day, **shadow operator** by night. I don't just write code — I **dissect it, weaponize it, and rebuild it bulletproof**.
-
-My background in **public procurement** (licitações) gave me something most pentesters lack: **understanding of business logic exploits**, compliance loopholes, and how systems **actually** break.
-
-Currently engineering **[SGL Enterprise](https://github.com/igorleite97/sgl_enterprise)** — a procurement ERP fortified with DDD, Event Sourcing, and zero-trust architecture.
-
-**Inspirations from history:**
-```
-> NotPetya (2017)     → $10B damage. Lesson: Supply chain is everything.
-> WannaCry (2017)     → 300K+ infections. Lesson: Patch management kills.
-> Stuxnet (2010)      → First cyber weapon. Lesson: Air gaps are illusions.
-> Shadow Brokers      → NSA tools leaked. Lesson: Nothing stays hidden.
-> Cicada 3301         → The greatest mystery. Lesson: Intelligence is the weapon.
+profile = {
+    "location":       "Brasília, DF — Brazil",
+    "current_role":   "Analyst of Technology & Bids @ Croma Tecnologia",
+    "education":      "CST Information Security — UNIP (2025–2027)",
+    "certification":  "eJPT (INE Security) — Target: 2026",
+    "thm_handle":     "UmbraNull",
+}
 ```
 
 ---
 
-## DECRYPTION KEY // MESSAGE AUTHENTICATION
+## Offensive Security
+
+Practical exploitation documented in controlled lab environments (TryHackMe, HackTheBox). Write-ups focus on attack chain reasoning — not just what worked, but why.
+
+**Techniques applied:**
 
 ```
-4e6f7450657479612e5761726e696e673a4578706c6f6974496e50726f6772657373
+Reconnaissance      →  Nmap, Gobuster, enum4linux, custom Python scripts
+Web Exploitation    →  File upload RCE, SQL injection, CMS exploitation
+Credential Attacks  →  Hydra, John the Ripper, Hashcat, PCAP analysis
+Steganography       →  binwalk (append), steghide (LSB), zip2john
+Privilege Escalation →  SUID abuse, cron hijacking, sudo CVEs, PATH manipulation
+Active Directory    →  Kerberos enum, AS-REP Roasting, DCSync
 ```
-<details>
-<summary>🔓 Click to decrypt (Hex → ASCII)</summary>
 
-```
-NotPetya.Warning:ExploitInProgress
-```
+**Completed rooms:**
 
-**Translation:** "Systems built without security die spectacularly."
+| Platform    | Room                 | Key Techniques                                        |
+|-------------|----------------------|-------------------------------------------------------|
+| TryHackMe   | Agent Sudo           | User-Agent bypass, steganography chain, CVE-2019-14287 |
+| TryHackMe   | Startup              | FTP+webshell RCE, PCAP credential extraction, cron PrivEsc |
+| TryHackMe   | Break Out The Cage   | Vigenère cipher, Python command injection, cron exploitation |
+| TryHackMe   | Brooklyn Nine Nine   | SSH brute-force, SUID /bin/less (GTFOBins)            |
+| TryHackMe   | Kenobi               | ProFTPD mod_copy (CVE-2015-3306), NFS, PATH hijacking |
+| TryHackMe   | Mr. Robot CTF        | WordPress enumeration, hash cracking, SUID nmap       |
+| TryHackMe   | Wonderland           | PATH manipulation, Linux capabilities                 |
+| TryHackMe   | Attacktive Directory | AS-REP Roasting, DCSync                               |
+| TryHackMe   | Simple CTF           | CMS Made Simple SQLi, VIM GTFOBins                    |
+| TryHackMe   | Basic Pentesting     | SMB enumeration, SSH key cracking                     |
 
-</details>
+→ Full write-ups: [github.com/igorleite97/offensive-writeups](https://github.com/igorleite97/offensive-writeups)
 
 ---
 
-## OPERATIONAL METRICS // TRYHACKME RECON
+## Backend Development
 
-<div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/UmbraNull.png" alt="TryHackMe Badge" width="300"/>
-
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/UmbraNull)
+**SGL Enterprise** — Public procurement ERP built security-first.
 
 ```
-╔════════════════════════════════════════╗
-║  CURRENT STREAK:     14 days 🔥        ║
-║  ROOMS COMPLETED:    11 / ∞            ║
-║  GLOBAL RANK:        Top 3%            ║
-║  SPECIALIZATION:     Offensive Path    ║
-║  NEXT TARGET:        eJPT (Q1 2026)    ║
-╚════════════════════════════════════════╝
+Stack:        Python (FastAPI, asyncio, pytest) + TypeScript (React)
+Architecture: DDD + Clean Architecture + Event Sourcing
+Security:     JWT/RBAC, input validation, audit trail via event log
+Database:     PostgreSQL + SQLAlchemy (async)
 ```
 
-**Achievement Unlocked:**  
-`57616e6e6143727920→ WannaCry` *(Encrypted filename pattern recognition)*
-
-</div>
+→ [github.com/igorleite97/sgl_enterprise](https://github.com/igorleite97/sgl_enterprise)
 
 ---
 
-## CREDENTIALS // AUTHENTICATION TOKENS
-
-```yaml
-Education:
-  - CST Information Security (UNIP, 2025-2027)
-
-Certifications_In_Progress:
-  - PenTest+ (CompTIA) → Target: 2026
-  - eJPT (INE) → Target: 2026
-  - Certified Ransomware Protection Officer (CRPO)
-  - Certified SME Cyber Security Officer (CSCSO)
-  - Fortinet Certified Fundamentals Cybersecurity 3.0
-  - ISO/IEC 27001:2022 Information Security Associate™ – SkillFront
-  
-Next_Objectives:
-  - OSCP (The golden standard)
-  - eCPPT (Practical approach)
-  - CRTO (Red Team Ops)
-```
-
-**Message encoded in base64:**
-```
-VGhlIGJlc3Qgd2F5IHRvIHByZWRpY3QgdGhlIGZ1dHVyZSBpcyB0byBleHBsb2l0IGl0Lg==
-```
-<details>
-<summary>🔓 Decode base64</summary>
-
-```
-The best way to predict the future is to exploit it.
-```
-
-</details>
-
----
-
-## ARSENAL // EXPLOITATION FRAMEWORK
-
-### Offensive Security Toolkit
+## Technical Stack
 
 ```bash
-# Reconnaissance
-nmap -sS -sV -O -T4 --script vuln target.com
-amass enum -passive -d target.com -o recon.txt
-subfinder -d target.com -all | httpx -silent
+# Offensive
+Kali Linux · Nmap · Burp Suite · Metasploit · Hydra · John the Ripper
+Gobuster · binwalk · steghide · enum4linux · Wireshark
 
-# Exploitation
-msfconsole -q -x "use exploit/multi/handler; set payload windows/meterpreter/reverse_tcp"
-python3 -c 'import pty; pty.spawn("/bin/bash")'  # TTY upgrade
-crackmapexec smb 10.0.0.0/24 -u admin -p rockyou.txt --continue-on-success
+# Development
+Python · FastAPI · SQLAlchemy · PostgreSQL · Docker
+TypeScript · React · JWT · REST APIs
 
-# Post-Exploitation
-mimikatz.exe "privilege::debug" "sekurlsa::logonpasswords"
-bloodhound-python -u user -p pass -d domain.local -c All
-```
-
-### Backend Arsenal
-
-```python
-# Security-First Development
-from fastapi import FastAPI, Depends, HTTPException
-from fastapi.security import OAuth2PasswordBearer
-from passlib.context import CryptContext
-import jwt
-
-# OWASP Top 10 mitigation built-in
-# - SQL Injection: Parameterized queries (SQLAlchemy ORM)
-# - XSS: Input sanitization + CSP headers
-# - CSRF: SameSite cookies + token validation
-# - Broken Auth: Bcrypt + JWT rotation
-# - Security Misconfiguration: Hardened defaults
-```
-
-**Stack:**
-```
-Backend:      Python (FastAPI, asyncio, pytest)
-Frontend:     TypeScript (React, Next.js)
-Security:     JWT, RBAC, OWASP compliance
-Architecture: DDD, Event Sourcing, CQRS
-DevOps:       Docker, CI/CD, Zero-trust
+# Knowledge
+OWASP Top 10 · DDD · Event Sourcing · Clean Architecture
 ```
 
 ---
 
-## CLASSIFIED PROJECTS // ACCESS GRANTED
+## Learning Path
 
-### Project Codename: "PROCUREMENT_SHIELD"
-
-**Repository:** [SGL Enterprise](https://github.com/igorleite97/sgl_enterprise)
-
-**Mission Brief:**  
-Secure enterprise procurement system handling **government contracts** (high-value target). Built with security as **foundation**, not afterthought.
-
-**Security Implementations:**
-```python
-# Event Sourcing = Complete audit trail (NotPetya lesson)
-# RBAC = Principle of least privilege (Stuxnet lesson)
-# Input validation = No SQLi surface (WannaCry lesson)
-# Zero-trust architecture = Trust nothing (Shadow Brokers lesson)
 ```
+Phase 1 — Foundation         ✅ complete
+├─ Basic Pentesting
+├─ Kenobi
+├─ Brooklyn Nine Nine
+├─ Startup
+├─ Break Out The Cage
+└─ Agent Sudo
 
-**Tech Specs:**
-- Python + FastAPI (async performance)
-- PostgreSQL + Event Store (immutable logs)
-- Domain-Driven Design (business logic isolation)
-- Comprehensive test coverage (pytest)
+Phase 2 — Intermediate        ◉ current
+├─ Lazy Admin
+├─ Ignite
+├─ Bolt
+└─ HackPark
 
-**Why it matters:**  
-Public procurement = **in taxpayer money**. Systems this critical **cannot** be insecure.
+Phase 3 — Certification
+└─ eJPT (INE Security)  →  Target: 2026
+
+Phase 4 — Advanced
+├─ Active Directory deep-dive
+├─ Buffer overflow fundamentals
+└─ OSCP (planned)
+```
 
 ---
 
-### Project Codename: "BREACH_DOCUMENTATION"
+## Certifications
 
-**Repository:** [Offensive Write-ups](https://github.com/igorleite97/offensive-writeups)
-
-Professional-grade penetration testing reports from:
-- TryHackMe offensive path
-- HackTheBox machines
-- Personal security research
-
-**Methodology:** PTES framework, OWASP guidelines, professional reporting standards.
-
----
-
-## PATTERN RECOGNITION // CICADA PROTOCOL
-
-```
-4c 6f 6f 6b 20 64 65 65 70 65 72 2e 20 54 68 65 20 
-61 6e 73 77 65 72 73 20 61 72 65 20 69 6e 20 74 68 
-65 20 63 6f 64 65 2e
-```
-
-<details>
-<summary>🔓 Decrypt (HEX)</summary>
-
-```
-Look deeper. The answers are in the code.
-```
-
-**Hidden Message:**  
-Those who understand systems **own** them. Those who don't are **owned** by them.
-
-</details>
+| Certification                               | Status           |
+|---------------------------------------------|------------------|
+| eJPT — INE Security                         | In progress      |
+| ISO/IEC 27001:2022 Associate — SkillFront   | Completed 2026   |
+| Getting Started in Cybersecurity — Fortinet | Completed 2026   |
+| CRPO — EU Cyber Academy                     | Completed 2026   |
+| OSCP                                        | Planned          |
 
 ---
 
-## SURVEILLANCE DATA // GITHUB METRICS
+## GitHub Stats
 
 <div align="center">
 
-![UmbraNull's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorleite97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorleite97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&icon_color=79c0ff&text_color=C9D1D9&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorleite97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorleite97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorleite97&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://tryhackme-badges.s3.amazonaws.com/UmbraNull.png" alt="TryHackMe Badge" width="280"/>
 
 </div>
 
 ---
 
-## ACTIVE OPERATIONS // Q1 2026 OBJECTIVES
+## Repositories
 
-```python
-class MissionBriefing:
-    def __init__(self):
-        self.primary_objective = "eJPT Certification (March 2026)"
-        self.secondary_objectives = [
-            "Complete TryHackMe Offensive Path (20+ rooms)",
-            "SGL Enterprise v2.0 (Microservices migration)",
-            "Active Directory attack chain research",
-            "Build custom exploit toolkit (Python)"
-        ]
-        
-    def execute(self):
-        while not self.mission_complete():
-            self.train()
-            self.exploit()
-            self.document()
-            self.repeat()
-```
-
-**Current Learning Path:**
-```
-Phase 1: Foundation
-├─ ✅ Basic Pentesting
-├─ ✅ Kenobi
-└─ ✅ Brooklyn Nine Nine
-
-Phase 2: Intermediate
-├─ 📋 Lazyadmin
-├─ 📋 Mr.Robot
-├─ 📋 Startup
-└─ 📋 Attacktive Directory
-
-Phase 3: Advanced
-└─ 📋 [ENCRYPTED: 53747578 6e6574]  → "Stuxnet"
-```
-
----
-
-## COMMUNICATION CHANNELS // SECURE LINKS
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/UmbraNull)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c4c95-6170-73b2-b61c-c5741403d621)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor_leite_123@hotmail.com)
-
-</div>
-
-```
-PGP Key Fingerprint: [REDACTED - Request via secure channel]
-Signal: [Available upon verification]
-ProtonMail: [Operational security maintained]
-```
-
----
-
-### The UmbraNull Doctrine
-
-1. **Learn from history's greatest breaches**  
-   NotPetya taught us supply chains fail. WannaCry showed patch management matters. Stuxnet proved air gaps are myths.
-
-2. **Exploit first, patch later**  
-   You can't defend what you don't understand. I break systems to learn their true weaknesses.
-
-3. **Code is law, bugs are exploits**  
-   Every line of code is a potential vulnerability. Every system has a backdoor — intentional or not.
-
----
-
-## FINAL TRANSMISSION // CICADA SEQUENCE
-
-```
-01010111 01100101 00100000 01100001 01110010 
-01100101 00100000 01110100 01101000 01100101 
-00100000 01110011 01101000 01100001 01100100 
-01101111 01110111 01110011 00100000 01110100 
-01101000 01100001 01110100 00100000 01110011 
-01111001 01110011 01110100 01100101 01101101 
-01110011 00100000 01100011 01100001 01110011 
-01110100 00101110
-```
-
-<details>
-<summary>🔓 Binary Decode</summary>
-
-```
-We are the shadows that systems cast.
-```
-
-</details>
+| Repository | Description |
+|------------|-------------|
+| [offensive-writeups](https://github.com/igorleite97/offensive-writeups) | Technical write-ups from TryHackMe and HackTheBox |
+| [sgl_enterprise](https://github.com/igorleite97/sgl_enterprise) | Public procurement ERP — Python/FastAPI/DDD |
 
 ---
 
 <div align="center">
 
-```
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  [SYSTEM COMPROMISED]                                         │
-│  [ROOT ACCESS GRANTED]                                        │
-│  [PERSISTENCE ESTABLISHED]                                    │
-│                                                               │
-│  "In the void between bits, we find truth.                    │
-│   In the null pointer exception, we find freedom.             │
-│   In the shadow of every system, we operate."                 │
-│                                                               │
-│  — UmbraNull                                                  │
-│                                                               │
-│  Connection Status: ENCRYPTED                                 │
-│  Threat Level: MAXIMUM                                        │
-│  Next Breach: IMMINENT                                        │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-### `>>> exit()`
-
-**Encrypted farewell:**  
-`VGhlIGdhbWUgaXMgb24uIEZpbmQgbWUgaWYgeW91IGNhbi4=`
-
-<details>
-<summary>Final Message (Base64)</summary>
-
-```
-The game is on. Find me if you can.
-```
-
-</details>
-
----
-
-⭐ **If you decoded this, you're worth recruiting. Star the repo to signal.**
+*"Ferramentas ficam obsoletas. Entender os protocolos é o que diferencia quem opera de quem apenas executa."*
 
 </div>
-
-
-```
-     _____           _                
-    |  ___|__   ___ | |_ _ __  _ __  
-    | |_ / _ \ / _ \| __| '_ \| '_ \ 
-    |  _| (_) | (_) | |_| |_) | | | |
-    |_|  \___/ \___/ \__| .__/|_| |_|
-                        |_|           
-    
-    Process terminated. Memory wiped.
-    No logs. No trace. Only results.
-```
