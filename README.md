@@ -1,175 +1,154 @@
 <div align="center">
 
-```
-██╗   ██╗███╗   ███╗██████╗ ██████╗  █████╗     ███╗   ██╗██╗   ██╗██╗     ██╗     
-██║   ██║████╗ ████║██╔══██╗██╔══██╗██╔══██╗    ████╗  ██║██║   ██║██║     ██║     
-██║   ██║██╔████╔██║██████╔╝██████╔╝███████║    ██╔██╗ ██║██║   ██║██║     ██║     
-██║   ██║██║╚██╔╝██║██╔══██╗██╔══██╗██╔══██║    ██║╚██╗██║██║   ██║██║     ██║     
-╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║    ██║ ╚████║╚██████╔╝███████╗███████╗
- ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-```
+# Igor Leite de Andrade
+**Security-Oriented Software Engineer | Offensive Security Practitioner**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-UmbraNull-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/UmbraNull)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-UmbraNull-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c4c95-6170-73b2-b61c-c5741403d621)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Leite-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/UmbraNull)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c4c95-6170-73b2-b61c-c5741403d621)
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Offensive_Security-red?style=flat-square)
-![Target](https://img.shields.io/badge/Target-eJPT_2026-blue?style=flat-square)
+<a href="https://github.com/igorleite97?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/igorleite97?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+    />
+</a>
+<a href="https://github.com/igorleite97?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/igorleite97?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+    />
+</a>
 
-</div>
-
----
-
-## About
-
-Backend developer transitioning into offensive security and Red Team operations. My background in public procurement systems gave me an unusual angle on business logic vulnerabilities — how complex workflows create attack surfaces that purely technical assessments miss.
-
-Currently focused on practical exploitation in controlled environments, Python automation for offensive tasks, and building a portfolio that demonstrates methodology over tooling.
-
-```python
-profile = {
-    "location":       "Brasília, DF — Brazil",
-    "current_role":   "Analyst of Technology & Bids @ Croma Tecnologia",
-    "education":      "CST Information Security — UNIP (2025–2027)",
-    "certification":  "eJPT (INE Security) — Target: 2026",
-    "thm_handle":     "UmbraNull",
-}
-```
-
----
-
-## Offensive Security
-
-Practical exploitation documented in controlled lab environments (TryHackMe, HackTheBox). Write-ups focus on attack chain reasoning — not just what worked, but why.
-
-**Techniques applied:**
-
-```
-Reconnaissance      →  Nmap, Gobuster, enum4linux, custom Python scripts
-Web Exploitation    →  File upload RCE, SQL injection, CMS exploitation
-Credential Attacks  →  Hydra, John the Ripper, Hashcat, PCAP analysis
-Steganography       →  binwalk (append), steghide (LSB), zip2john
-Privilege Escalation →  SUID abuse, cron hijacking, sudo CVEs, PATH manipulation
-Active Directory    →  Kerberos enum, AS-REP Roasting, DCSync
-```
-
-**Completed rooms:**
-
-| Platform    | Room                 | Key Techniques                                        |
-|-------------|----------------------|-------------------------------------------------------|
-| TryHackMe   | Agent Sudo           | User-Agent bypass, steganography chain, CVE-2019-14287 |
-| TryHackMe   | Startup              | FTP+webshell RCE, PCAP credential extraction, cron PrivEsc |
-| TryHackMe   | Break Out The Cage   | Vigenère cipher, Python command injection, cron exploitation |
-| TryHackMe   | Brooklyn Nine Nine   | SSH brute-force, SUID /bin/less (GTFOBins)            |
-| TryHackMe   | Kenobi               | ProFTPD mod_copy (CVE-2015-3306), NFS, PATH hijacking |
-| TryHackMe   | Mr. Robot CTF        | WordPress enumeration, hash cracking, SUID nmap       |
-| TryHackMe   | Wonderland           | PATH manipulation, Linux capabilities                 |
-| TryHackMe   | Attacktive Directory | AS-REP Roasting, DCSync                               |
-| TryHackMe   | Simple CTF           | CMS Made Simple SQLi, VIM GTFOBins                    |
-| TryHackMe   | Basic Pentesting     | SMB enumeration, SSH key cracking                     |
-
-→ Full write-ups: [github.com/igorleite97/offensive-writeups](https://github.com/igorleite97/offensive-writeups)
-
----
-
-## Backend Development
-
-**SGL Enterprise** — Public procurement ERP built security-first.
-
-```
-Stack:        Python (FastAPI, asyncio, pytest) + TypeScript (React)
-Architecture: DDD + Clean Architecture + Event Sourcing
-Security:     JWT/RBAC, input validation, audit trail via event log
-Database:     PostgreSQL + SQLAlchemy (async)
-```
-
-→ [github.com/igorleite97/sgl_enterprise](https://github.com/igorleite97/sgl_enterprise)
-
----
-
-## Technical Stack
-
-```bash
-# Offensive
-Kali Linux · Nmap · Burp Suite · Metasploit · Hydra · John the Ripper
-Gobuster · binwalk · steghide · enum4linux · Wireshark
-
-# Development
-Python · FastAPI · SQLAlchemy · PostgreSQL · Docker
-TypeScript · React · JWT · REST APIs
-
-# Knowledge
-OWASP Top 10 · DDD · Event Sourcing · Clean Architecture
-```
-
----
-
-## Learning Path
-
-```
-Phase 1 — Foundation         ✅ complete
-├─ Basic Pentesting
-├─ Kenobi
-├─ Brooklyn Nine Nine
-├─ Startup
-├─ Break Out The Cage
-└─ Agent Sudo
-
-Phase 2 — Intermediate        ◉ current
-├─ Lazy Admin
-├─ Ignite
-├─ Bolt
-└─ HackPark
-
-Phase 3 — Certification
-└─ eJPT (INE Security)  →  Target: 2026
-
-Phase 4 — Advanced
-├─ Active Directory deep-dive
-├─ Buffer overflow fundamentals
-└─ OSCP (planned)
-```
-
----
-
-## Certifications
-
-| Certification                               | Status           |
-|---------------------------------------------|------------------|
-| eJPT — INE Security                         | In progress      |
-| ISO/IEC 27001:2022 Associate — SkillFront   | Completed 2026   |
-| Getting Started in Cybersecurity — Fortinet | Completed 2026   |
-| CRPO — EU Cyber Academy                     | Completed 2026   |
-| OSCP                                        | Planned          |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorleite97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&icon_color=79c0ff&text_color=C9D1D9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorleite97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=C9D1D9)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/UmbraNull.png" alt="TryHackMe Badge" width="280"/>
+![Status](https://img.shields.io/badge/Status-Open_to_Work-success?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_+_Security-blue?style=flat-square)
+![Target](https://img.shields.io/badge/Target-eJPT_2026-red?style=flat-square)
 
 </div>
 
 ---
 
-## Repositories
+## 👨‍💻 About Me
 
-| Repository | Description |
-|------------|-------------|
-| [offensive-writeups](https://github.com/igorleite97/offensive-writeups) | Technical write-ups from TryHackMe and HackTheBox |
-| [sgl_enterprise](https://github.com/igorleite97/sgl_enterprise) | Public procurement ERP — Python/FastAPI/DDD |
+Software developer specializing in **backend systems** and **offensive security**. I build resilient applications by combining clean architecture principles (DDD, SOLID) with a security-first mindset shaped by Red Team methodologies.
+
+My background in **public procurement systems** gave me a unique perspective on **business logic vulnerabilities** — understanding how complex workflows create attack surfaces that purely technical assessments miss.
+
+**Currently:**
+- 🎓 Pursuing **CST in Information Security** @ UNIP (2025–2027)
+- 🎯 Preparing for **eJPT (INE Security)** certification
+- 🏆 **Top 3%** ranked on TryHackMe (Handle: [UmbraNull](https://tryhackme.com/p/UmbraNull))
+- 💼 Based in **Brasília, Brazil**
+
+---
+
+## 🚀 Featured Projects
+
+### 🐍 [SGL Enterprise](https://github.com/igorleite97/sgl_enterprise) — Public Procurement ERP
+**Production-ready ERP built security-first for government contract management.**
+
+**Key Features:**
+- 🔐 Role-based access control (RBAC) with granular permissions
+- 📊 Event-sourced audit timeline for compliance (Lei 14.133/21)
+- ⚡ Async API design for high concurrency
+- 🧪 Test-driven development (pytest coverage > 80%)
+
+**Why it matters:** Demonstrates ability to architect secure, scalable systems while meeting strict regulatory requirements.
+
+---
+
+### ☕ [ClientesAPI](https://github.com/igorleite97/clientes-api) — Customer Management REST API
+**Clean, production-ready API showcasing enterprise Java best practices.**
+
+**Key Features:**
+- 🏗️ High cohesion architecture: SRP and DIP principles
+- 🌐 External Integration: OpenFeign & ViaCEP API
+- ✅ Robust Validation: Bean Validation (JSR-303)
+- 📖 Interactive Documentation: Swagger/OpenAPI
+
+**Why it matters:** Demonstrates ability to build interoperable and well-documented services.
+
+---
+
+### 🛡️ [Offensive Writeups](https://github.com/igorleite97/offensive-writeups) — CTF Documentation
+**Technical writeups from TryHackMe and HackTheBox focusing on attack methodology.**
+
+**Approach:** Focus on *why* exploits work, not just execution.
+
+**Recent Highlights:**
+| Platform | Room/Machine | Key Techniques |
+|----------|--------------|----------------|
+| TryHackMe | Attacktive Directory | AS-REP Roasting, Kerberoasting, DCSync |
+| TryHackMe | Agent Sudo | User-Agent bypass, steganography, CVE-2019-14287 |
+| TryHackMe | Startup | FTP + webshell RCE, PCAP extraction |
+| TryHackMe | Kenobi | ProFTPD (CVE-2015-3306), NFS |
+| TryHackMe | Mr. Robot | WordPress enum, hash cracking |
+
+→ [See all writeups](https://github.com/igorleite97/offensive-writeups)
+
+---
+
+## 🧰 Technical Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/>
+
+### 🔒 Security & Pentesting
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="50"/>
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/>
+<img src="https://www.metasploit.com/assets/images/metasploit-r7-logo.svg" width="50"/>
+<img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" width="50"/>
+
+### 🛠️ DevOps & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- ISO/IEC 27001:2022 — SkillFront  
+- Fortinet Cybersecurity 3.0  
+- CRPO — EU Cyber Academy  
+- CSCSO — EU Cyber Academy  
+- Jr Penetration Tester — TryHackMe
+
+**In Progress:**
+- eJPT (INE)  
+- Security+  — CompTIA
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor_leite_123@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-leite-a9b839222)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorleite97)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Ferramentas ficam obsoletas. Entender os protocolos é o que diferencia quem opera de quem apenas executa."*
+*"Tools become obsolete. Understanding systems is what separates operators from executors."*
 
 </div>
