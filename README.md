@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Software developer specializing in **backend systems** and **offensive security**. I build resilient applications by combining clean architecture principles (DDD, SOLID) with a security-first mindset shaped by Red Team methodologies.
 
@@ -44,9 +44,9 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🐍 [SGL Enterprise](https://github.com/igorleite97/sgl_enterprise) — Public Procurement ERP
+### [SGL Enterprise](https://github.com/igorleite97/sgl_enterprise) — Public Procurement ERP
 **Production-ready ERP built security-first for government contract management.**
 
 **Key Features:**
@@ -59,7 +59,7 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-### ☕ [ClientesAPI](https://github.com/igorleite97/clientes-api) — Customer Management REST API
+### [ClientesAPI](https://github.com/igorleite97/clientes-api) — Customer Management REST API
 **Clean, production-ready API showcasing enterprise Java best practices.**
 
 **Key Features:**
@@ -72,7 +72,7 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-### 🛡️ [Offensive Writeups](https://github.com/igorleite97/offensive-writeups) — CTF Documentation
+### [Offensive Writeups](https://github.com/igorleite97/offensive-writeups) — CTF Documentation
 **Technical writeups from TryHackMe and HackTheBox focusing on attack methodology.**
 
 **Approach:** Focus on *why* exploits work, not just execution.
@@ -90,11 +90,11 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-## 🧰 Technical Stack
+## Technical Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
@@ -103,14 +103,14 @@ My background in **public procurement systems** gave me a unique perspective on 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/>
 
-### 🔒 Security & Pentesting
+### Security & Pentesting
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="50"/>
 <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/>
 <img src="https://www.metasploit.com/assets/images/metasploit-r7-logo.svg" width="50"/>
 <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" width="50"/>
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
@@ -121,7 +121,7 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - ISO/IEC 27001:2022 — SkillFront  
 - Fortinet Cybersecurity 3.0  
