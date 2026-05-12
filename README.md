@@ -59,7 +59,7 @@ My background in **public procurement systems** gave me a unique perspective on 
 
 ---
 
-### [ClientesAPI](https://github.com/igorleite97/clientes-api) — Customer Management REST API
+### [ClientesAPI](https://github.com/igorleite97/cyberstore-springboot4-jpa) — Customer Management REST API
 **Clean, production-ready API showcasing enterprise Java best practices.**
 
 **Key Features:**
